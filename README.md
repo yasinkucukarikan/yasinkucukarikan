@@ -2,6 +2,8 @@
 
 ## 🎓 Alanya Üniversitesi'nde Öğretim Görevlisi olarak çalışmaktayım.
 📍 Matematik & Bilgisayar Bilimleri
+
+
 🎓 Eğitim
 
 Lisans – Gazi Üniversitesi, Polatlı Fen-Edebiyat Fakültesi, Matematik (2015–2019)

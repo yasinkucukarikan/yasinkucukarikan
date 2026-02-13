@@ -1,7 +1,5 @@
-# 👋 Merhaba! Ben Yasin KÜÇÜKARIKAN
-
-🎓 Alanya Üniversitesi'nde **Öğretim Görevlisi** olarak çalışmaktayım.  
-📍 Matematik & Bilgisayar Bilimleri  
+# 👋 Yasin Küçükarıkan
+### 🎓 Öğretim Görevlisi | Matematik & Bilgisayar Bilimleri
 
 ---
 

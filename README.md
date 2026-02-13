@@ -83,6 +83,5 @@ Danışman: Prof. Dr. Murat Babaarslan
 
 ---
 
-## 📄 İletişim
-
+## 📫 İletişim
 📧 yasin.kucukarikan@alanyauniversity.edu.tr

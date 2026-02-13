@@ -53,6 +53,7 @@ Isometries Between Timelike Helicoidal and Rotational Surfaces – Edirne, 2022
 Comparative Analysis Of Fractional And Local Operators in Image Denoising – Konya, 2025
 
 🧑‍🏫 Verdiği Dersler
+
 📘 Alanya Üniversitesi
 
 Veri Tabanı I & II
